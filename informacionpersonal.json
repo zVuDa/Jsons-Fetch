@@ -1,0 +1,19 @@
+{
+    "empleado":{
+        "dwayne":{
+          "nombre": "Dwayne Johnson",
+          "apodo": "The Rock",
+          "edad":50,
+          "ubicacion":"California",
+          "contacto":{
+            "telefono":"+555 072 159",
+            "email":"dwayne@therock.com"
+          },
+        "rrss":{
+          "twitter":"@TheRock",
+          "instagram":"@therock"
+        }
+        }
+      }
+}
+
