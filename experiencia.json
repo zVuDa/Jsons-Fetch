@@ -1,0 +1,28 @@
+{
+    "experiencialaboral": {
+        "primeraexperiencia": {
+            "puesto": "Actor invitado",
+            "proyecto": "Stark Trek: Voyager || Aquellos Maravillosos 70",
+            "ubicacion": "Los Angeles, California",
+            "periodo": "2002 - 2004"
+        },
+        "segundaexperiencia": {
+            "puesto": "Actor principal",
+            "proyecto": "El rey escorpión",
+            "ubicacion": "Los Angeles, California",
+            "periodo": "2004 - 2005"
+        },
+        "terceraexperiencia": {
+            "puesto": "Actor de reparto",
+            "proyecto": "Fast & Furious 5 y Fast & Furious 6",
+            "ubicacion": "Los Angeles, California",
+            "periodo": "2010 - 2013"
+        },
+        "cuartaexperiencia": {
+            "puesto": "Actor principal",
+            "proyecto": "Ballers",
+            "ubicacion": "Los Angeles, California",
+            "periodo": "2016 - 2020"
+        }
+    }
+}

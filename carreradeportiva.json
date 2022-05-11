@@ -1,0 +1,22 @@
+{
+    "carreradeportiva": {
+        "primeraexperiencia": {
+            "organizacion": "Miami Hurricaines",
+            "deporte": "Fútbol americano universitario",
+            "ubicacion": "Miami, Florida",
+            "periodo": "1988 - 1992"
+        },
+        "segundaexperiencia": {
+            "organizacion": "World Wrestling Federation (WWF)",
+            "deporte": "Wrestling profesional",
+            "ubicacion": "Estados Unidos",
+            "periodo": "1996 - 2004"
+        },
+        "terceraexperiencia": {
+            "organizacion": "World Wrestling Entertainment (WWE)",
+            "deporte": "Wrestling profesional",
+            "ubicacion": "Estados Unidos",
+            "periodo": "1997 - 2004"
+        }
+    }
+}
